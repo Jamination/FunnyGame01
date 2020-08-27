@@ -18,6 +18,7 @@ namespace FunnyGame01
                 var wall = MainMap.Map.TmxMap.ObjectGroups["Walls"].Objects[i];
                 Walls[i].Active = true;
                 Walls[i].Transform.Position = new Vector2((float)wall.X, (float)wall.Y);
+                Walls[i].Transform.Rotation = MathHelper.ToRadians((float)wall.Rotation);
             }
         }
 
