@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/james/RiderProjects/FunnyGame01/FunnyGame01/Content/Sprites/Square.png","C:/Users/james/RiderProjects/FunnyGame01/FunnyGame01/Content/bin/Windows/Content/Sprites/Square.xnb","TextureProcessor","Texture2DContent",142,4181,0.1324925
+"C:/Users/james/RiderProjects/FunnyGame01/FunnyGame01/Content/TileSets/GroundTiles.png","C:/Users/james/RiderProjects/FunnyGame01/FunnyGame01/Content/bin/Windows/Content/TileSets/GroundTiles.xnb","TextureProcessor","Texture2DContent",6124,83029,0.1641321
